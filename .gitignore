@@ -1,0 +1,7 @@
+*test/
+*.DS_Store/
+*.h5
+*.csv
+*.jpg
+*.mp3
+__pycache__/
